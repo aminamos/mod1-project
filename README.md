@@ -46,7 +46,7 @@ Once the visit is recorded, the restaurant will know that the user visited.
     - Return to main menu
 
 ## Contributions
-Please read the [CONTRIBUTING.md](https://github.com/aminamos/module-one-project/blob/master/CONTRIBUTING.md) file for guidance.
+Please read theCONTRIBUTING.md file for guidance.
 
 ## Help and Questions
-[Open an issue](https://github.com/aminamos/module-one-project/issues/new) to ask the owners of the project questions.
+Open an issue to ask the owners of the project questions.
